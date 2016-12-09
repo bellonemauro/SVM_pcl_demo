@@ -1,11 +1,4 @@
-#  +---------------------------------------------------------------------------+
-#  |                                                                           |
-#  |                     https://www.maurobellone.com                          |
-#  |                                                                           |
-#  | Copyright (c) 2017, - All rights reserved.                                |
-#  | Authors: Mauro Bellone                                                    |
-#  | Released under ___ license                                                |
-#  +---------------------------------------------------------------------------+ 
+
 
 Tutorial to train a SVM classifier using the point cloud library
 
