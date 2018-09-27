@@ -3,6 +3,7 @@
 Tutorial to train a SVM classifier using the point cloud library
 
 Dependencies: PCL-1.8 
+
           NB: the official version of PCL will not work, I have modified 
               the files smv_wrapper.h/cpp and svm.h/cpp ---  
               You can find my version here https://github.com/bellonemauro/pcl
